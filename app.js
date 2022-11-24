@@ -1,4 +1,4 @@
-import {modalBody, spinner, creaCard } from '.ul-js';
+import {modalBody, spinner, creaCard } from './ul.js';
 
 const urlBase = 'https://rickandmortyapi.com/api/character/';
 
